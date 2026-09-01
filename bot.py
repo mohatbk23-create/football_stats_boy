@@ -16,7 +16,7 @@ from telegram.ext import (
 # ---------------------------------------------------------
 BOT_TOKEN = "8814604397:AAFB0Pj4cUkUt3MugpVRUwkm6h5uU5W9M24"
 API_KEY = "5096024d4d9345aeac50f27dff5cdf6d"
-CHANNEL_ID = "@my_sports_channel_20026"  # ضع معرف قناتك هنا (مثال: @my_channel)
+CHANNEL_ID = "@YourChannelUsername"  # ضع معرف قناتك هنا (مثال: @my_channel)
 
 WAITING_AMOUNT, WAITING_ODDS = range(2)
 
